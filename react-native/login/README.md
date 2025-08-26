@@ -1,6 +1,6 @@
 ## Bộ câu hỏi phỏng vấn Rect Native qua ứng dụng Login
 
-> 🚀 "Đây không chỉ là một bộ câu hỏi phỏng vấn React Native—mà là một hành trình thực chiến qua ứng dụng Login, nơi mỗi dòng code đều phản ánh tư duy của một lập trình viên chuyên nghiệp."
+🚀 "Đây không chỉ là một bộ câu hỏi phỏng vấn React Native—mà là một hành trình thực chiến qua ứng dụng Login, nơi mỗi dòng code đều phản ánh tư duy của một lập trình viên chuyên nghiệp."
 
 > 📲 Đừng quên **like, share và để lại comment** trên kênh TikTok [@thaygiaofrontend](https://www.tiktok.com/@thaygiaofrontend) để cùng nhau trao đổi, làm rõ những thắc mắc và nâng tầm kiến thức lập trình Frontend mỗi ngày!
 
